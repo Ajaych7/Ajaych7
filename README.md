@@ -1,6 +1,6 @@
-# Alex Chen | Principal DevOpsSec Engineer 
+# AJAY CH | Principal DevOpsSec Engineer 
 
-&gt; 🔐 Securing cloud-native pipelines at `[Company]` | AWS Security Specialty & CKA certified | 7+ years reducing risk by 70%+
+&gt; 🔐 Securing cloud-native pipelines at `Randstad Technologies` | AWS Security Specialty & CKA certified | 7+ years reducing risk by 70%+
 
 ### ⚔️ Core Stack
 - **Cloud Security:** AWS (GuardDuty, Inspector), Azure Defender, GCP SCC
@@ -29,7 +29,8 @@
 ![HashiCorp Terraform Associate](https://img.shields.io/badge/Terraform%20Associate-844FBA?logo=terraform&logoColor=white)
 
 ### 📫 Contact
-- 📧 [alex.chen@email.com](mailto:alex.chen@email.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 [chajay129@email.com](mailto:chajay129@email.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/ajaych7)
 
-- 📍 San Francisco, CA | 🌐 PST
+- 📍  Hyderabad, India | 🌐 IST 
+
