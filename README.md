@@ -18,7 +18,7 @@
 ### 🌟 Featured Repositories
 | Project | Impact | Tech |
 |---------|--------|------|
-| **[terraform-aws-secure-baseline](https://github.com/your-user/repo)** | Automated CIS for 50+ AWS accounts | Terraform, AWS |
+| **[terraform-aws-secure-baseline](https://github.com/Ajaych7/terraform-aws-secure-baseline)** | Automated CIS for 50+ AWS accounts | Terraform, AWS |
 | **[k8s-security-policies](https://github.com/your-user/repo)** | 100+ Kyverno policies blocking 99% misconfigs | Kubernetes, OPA |
 | **[cicd-security-templates](https://github.com/your-user/repo)** | Reusable pipelines used by 15+ teams | GitHub Actions, Snyk |
 | **[container-hardening](https://github.com/your-user/repo)** | SCRATCH images reducing CVEs by 90% | Docker, Trivy |
@@ -31,4 +31,5 @@
 ### 📫 Contact
 - 📧 [alex.chen@email.com](mailto:alex.chen@email.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+
 - 📍 San Francisco, CA | 🌐 PST
