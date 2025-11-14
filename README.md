@@ -1,6 +1,6 @@
 # AJAY CH | Principal DevOpsSec Engineer 
 
-&gt; 🔐 Securing cloud-native pipelines at `Randstad Technologies` | AWS Security Specialty & CKA certified | 7+ years reducing risk by 70%+
+&gt; 🔐 Securing cloud-native pipelines at `Randstad Technologies` | AWS Security Specialty & CKA certified | 4+ years reducing risk by 70%+
 
 ### ⚔️ Core Stack
 - **Cloud Security:** AWS (GuardDuty, Inspector), Azure Defender, GCP SCC
@@ -33,4 +33,5 @@
 - 🔗 [LinkedIn](https://linkedin.com/in/ajaych7)
 
 - 📍  Hyderabad, India | 🌐 IST 
+
 
