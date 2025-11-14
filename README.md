@@ -10,6 +10,7 @@
 </p>
 
 ---
+**The best DevOps practice is not just about tools and automation—it's about fostering a culture of collaboration, continuous improvement, and shared responsibility between development and operations teams.** -**Patrick Debois and Andrew Clay Shafer**
 
 ### 💬 Ask me about
 **DevSecOps, AWS Security, Kubernetes Hardening, CI/CD Pipeline Security**
@@ -61,5 +62,6 @@
 <div align="center">
   <p><em>⚡ Last updated: October 2025</em></p>
 </div>
+
 
 
