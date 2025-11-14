@@ -21,7 +21,6 @@
 <p align="center">
   <!-- Cloud -->
   <img src="https://holori.com/wp-content/uploads/2024/09/AWS-company-logo-.svg" width="40" height="40" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins"/>
@@ -62,4 +61,5 @@
 <div align="center">
   <p><em>⚡ Last updated: October 2025</em></p>
 </div>
+
 
